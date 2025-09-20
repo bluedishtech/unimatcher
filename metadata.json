@@ -1,0 +1,5 @@
+{
+  "name": "Uni Matcher",
+  "description": "Une application web pour associer les nouveaux étudiants (freshmen) avec les anciens (seniors) pour un programme de mentorat universitaire. Elle permet l'inscription des utilisateurs via un formulaire, la consultation des listes de participants, le tirage au sort des matchs et l'affichage des résultats.",
+  "requestFramePermissions": []
+}
